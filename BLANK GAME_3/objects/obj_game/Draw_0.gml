@@ -1,0 +1,1 @@
+draw_path(global.my_path,x,y,true);
