@@ -53,6 +53,8 @@
     {"id":{"name":"hechizo_2","path":"sprites/hechizo_2/hechizo_2.yy",},},
     {"id":{"name":"hechizo_3","path":"sprites/hechizo_3/hechizo_3.yy",},},
     {"id":{"name":"hechizo_4","path":"sprites/hechizo_4/hechizo_4.yy",},},
+    {"id":{"name":"hechizo_5","path":"sprites/hechizo_5/hechizo_5.yy",},},
+    {"id":{"name":"hechizo_6","path":"sprites/hechizo_6/hechizo_6.yy",},},
     {"id":{"name":"Icon_Attack","path":"sprites/Icon_Attack/Icon_Attack.yy",},},
     {"id":{"name":"Icon_Defense","path":"sprites/Icon_Defense/Icon_Defense.yy",},},
     {"id":{"name":"Icon_Magic","path":"sprites/Icon_Magic/Icon_Magic.yy",},},
