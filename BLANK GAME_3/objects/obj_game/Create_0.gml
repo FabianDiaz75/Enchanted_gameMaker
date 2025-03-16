@@ -1,3 +1,4 @@
+randomize();
 global.mana		 = 100;
 global.confianza = 10;
 global.objGame	 = id;
@@ -5,13 +6,14 @@ global.book		 = false;
 global.menu		 = instance_create_layer(411,231,"Menu",obj_openBook);
 instance_deactivate_object(global.menu);
 
+global.currentTickets = ds_list_create();
 
 global.my_path	 = path_add();
 global.actual_enchanted = [0,0,0,0,0,0,0,0,0]
 global.enchanting =false;
 path_set_closed(global.my_path,false);
 
-arrTickets= 
+global.arrTickets= 
 [
 	[spr_ticket_1,5,0,0,250],
 	[spr_ticket_2,3,2,0,300],
