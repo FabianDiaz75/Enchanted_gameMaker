@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ticket",
+  "%Name":"obj_arm",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_ticket",
+  "name":"obj_arm",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ticket_0",
-    "path":"sprites/spr_ticket_0/spr_ticket_0.yy",
+    "name":"spr_espada_1",
+    "path":"sprites/spr_espada_1/spr_espada_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
