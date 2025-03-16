@@ -1,2 +1,7 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
+patron_encanta =
+[
+	[ 1,1,1,1,1,1,0,0,1 ],
+	[ 1,0,0,0,1,1,1,1,1 ],
+	[ 1,1,0,1,1,1,1,1,0 ],
+	[ 1,1,1,1,1,1,1,1,1 ]
+];
