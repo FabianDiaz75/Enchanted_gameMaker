@@ -1,3 +1,4 @@
+randomize();
 global.mana		 = 100;
 global.confianza = 10;
 global.objGame	 = id;
@@ -23,6 +24,15 @@ arrTickets=
 	[spr_ticket_10,5,0,0,320],
 	[spr_ticket_11,2,3,0,420],
 	[spr_ticket_12,0,5,0,320]
+]
+arrArms=
+[
+	spr_espada_1,
+	spr_espada_2,
+	spr_espada_3,
+	spr_espada_4,
+	spr_pocion_1,
+	spr_pocion_2,
 ]
 
 function enchanted_cleaner(){
